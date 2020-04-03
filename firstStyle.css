@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.abbrHTML{
+    color: blue;
+}
+body{
+    background-color:pink;
+}
+.bulbasaur{
+    color: green;
+}
+.charmander{
+    color: red;
+}
+.squirtle{
+    color: blue;
+}
+.bulbaUl{
+    list-style-image: url(./img/bulbasaur.png);
+}
+.charmUl{
+    list-style-image: url(./img/charmander.png);
+}
+.squiUl{
+    list-style-image: url(./img/squirtle.png);
+}

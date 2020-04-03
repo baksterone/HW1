@@ -1,0 +1,29 @@
+#bulbasaur{
+    font-family: cursive;
+    font-size: 15px;
+    color: brown;
+}
+#charmander{
+    font-family: fantasy;
+    font-size: 17px;
+    color: darkorange;
+}
+#squirtle{
+    font-family: arial;
+    font-size: 20px;
+    color: darkblue;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+}
+img{
+    float: left;
+    height: 150px;
+}
+.region{
+    padding-top: 100px;
+    text-align: left;
+}
